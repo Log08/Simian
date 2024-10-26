@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simian</string>
+    <string name="mode_1">模式一</string>
+    <string name="mode_2">模式二</string>
+    <string name="mode_3">模式三</string>
+    <string name="upload">上传</string>
+</resources>
